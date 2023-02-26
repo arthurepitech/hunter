@@ -1,4 +1,4 @@
-#Hunter
+# Hunter
 
 ## But du projet
 Le but de ce projet est de recréer le célèbre jeu Duck Hunt en utilisant la bibliothèque CSFML. Le jeu consiste à tirer sur des canards qui apparaissent à l'écran à l'aide d'un pistolet à lumière. Le joueur dispose de trois vies et perd une vie s'il manque un canard ou s'il tire sur un chien.
